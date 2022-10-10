@@ -1,4 +1,5 @@
-cache simulation
+cache simulation:
+
 learnt that i am taking cache and memory storage for granted. a lot.
 
 how it works:

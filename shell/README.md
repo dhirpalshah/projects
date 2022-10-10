@@ -1,4 +1,5 @@
-shell project
+shell project:
+
 why use the terminal when you can run another terminal inside the terminal?
 
 how it works:
