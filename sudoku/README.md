@@ -1,4 +1,5 @@
-sudoku solver
+sudoku solver:
+
 i'd rather have computer solve sudoku than have to solve it myself.
 
 how it works:
