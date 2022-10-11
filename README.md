@@ -1,5 +1,9 @@
 # projects
-just a couple projects that i built in my free time
-each project has their own readme for a basic overview of the project
+WELCOME!
 
-laptop got stolen (tough), so i've had to reupload local repo into git
+This is my little repo with some of my projects that I've built in my free time
+
+Feel free to click around - each project has its own README
+
+Unfortunately, my laptop was stolen recently, so I've had to redo all
+my local projects and put them here :(
