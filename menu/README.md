@@ -52,3 +52,5 @@ order each time. This way, you can test the function effectively.
 
 kind of a cool way to test a bunch of edge cases on a function without having
 to think too hard.
+
+there's also a super boring makefile just because.
